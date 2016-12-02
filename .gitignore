@@ -2,3 +2,7 @@
 .project
 
 .classpath
+
+target/maven-archiver/pom.properties
+
+target/developmentExceptions-1.0.jar
